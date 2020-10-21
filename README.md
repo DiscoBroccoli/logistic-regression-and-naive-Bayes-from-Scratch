@@ -3,7 +3,9 @@ Explored 4 dataset - Ionosphere (Sigillito et al., 1989), Adult (Kohavi, 1996), 
 
 Completed for COMP 551 - Applied Machine Learning
 
-## Insight
+## Data Exploration Analysis
+
+In this phase the data are cleaned. One-hot encoding is applied using pandas get_dummies method, the continuous data are standardized and the training and test are split. The files are located in dataset folder.
 
 ### Histograms of Binary and Continuous Features and Labels in the Adult Data Set
 
