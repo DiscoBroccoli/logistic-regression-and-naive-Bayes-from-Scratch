@@ -54,5 +54,6 @@ rates
 ![exp2 seeds](https://user-images.githubusercontent.com/57273222/96788004-b8340e80-13c0-11eb-9719-01976c6620bd.png)
 
 ### Accuracy of both models on all data set 
-![exp3_all](https://user-images.githubusercontent.com/57273222/96789288-e1ee3500-13c2-11eb-8d94-0d42eeabe2e4.PNG)
+![exp3_all](https://user-images.githubusercontent.com/57273222/96793107-b28ef680-13c9-11eb-8caa-a12700554fbe.PNG)
+
 
