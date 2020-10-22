@@ -3,6 +3,10 @@ Explored 4 dataset - Ionosphere (Sigillito et al., 1989), Adult (Kohavi, 1996), 
 
 Completed for COMP 551 - Applied Machine Learning
 
+## Accomplishments
+- Data Visualization and implementation of different classification models to determine which is the best for each Data Set.
+- Learnt object-oriented programming and best practices.
+
 ## Data Exploration Analysis
 
 In this phase the data are cleaned. One-hot encoding is applied using pandas get_dummies method, the continuous data are standardized, other features in adult dataset has been remaped into binary ('rich' higher or lower than 50K salary, 'sex' {'Male': 1, 'Female': 0}), and finally the training and test are split. The files are located in dataset folder.
