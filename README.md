@@ -5,7 +5,8 @@ Completed for COMP 551 - Applied Machine Learning
 
 ## Accomplishments
 - Data Visualization and implementation of different classification models to determine which is the best for each Data Set.
-- Learnt object-oriented programming and best practices.
+- Applied extensively list comprehension and typing in functions for clarity.
+- Learned object-oriented programming.
 
 ## Data Exploration Analysis
 
