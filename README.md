@@ -9,7 +9,7 @@ Completed for COMP 551 - Applied Machine Learning
 - Learned object-oriented programming.
 
 ### Libraries
--Numpy, pandas, seaborn, mathplotlib, math, and evaluation
+- Numpy, pandas, seaborn, mathplotlib, math, and evaluation
 
 ## Data Exploration Analysis
 
