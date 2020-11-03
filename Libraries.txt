@@ -3,3 +3,4 @@ mathplotlib
 seaborn
 pandas
 evaluation
+math
