@@ -1,0 +1,5 @@
+numpy
+mathplotlib
+seaborn
+pandas
+evaluation
