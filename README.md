@@ -8,6 +8,9 @@ Completed for COMP 551 - Applied Machine Learning
 - Applied extensively list comprehension and typing in functions for clarity.
 - Learned object-oriented programming.
 
+### Libraries
+-Numpy, pandas, seaborn, mathplotlib, math, and evaluation
+
 ## Data Exploration Analysis
 
 In this phase the data are cleaned. One-hot encoding is applied using pandas get_dummies method, the continuous data are standardized, other features in adult dataset has been remaped into binary ('rich' higher or lower than 50K salary, 'sex' {'Male': 1, 'Female': 0}), and finally the training and test are split. The files are located in dataset folder.
