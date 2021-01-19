@@ -3,7 +3,7 @@ Explored 4 dataset - Ionosphere (Sigillito et al., 1989), Adult (Kohavi, 1996), 
 
 Completed for COMP551 - Applied Machine Learning
 
-
+more content at: [jiebao.ca/projects/abalones](https://https://jiebao.ca/projects/abalones)
 ## Accomplishments
 - Data Visualization and implementation of different classification models to determine which is the best for each Data Set.
 - Applied extensively list comprehension and typing in functions for clarity.
